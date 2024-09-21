@@ -1,0 +1,2 @@
+# maci-wrapper
+MACI contracts
